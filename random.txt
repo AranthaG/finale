@@ -2,3 +2,4 @@ hello world
 strawberry
 kite
 butterfly
+rainbow
